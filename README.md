@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently working at Pi Techniques<br>💬Ask me about Web development-related stuff<br>📫How to reach me: Twitter - @SWARAJ_53424950, LinkedIn - @swaraj-darne, Instagram - @swaraj__srj<br>⚡If I’m not coding, I’m probably binging anime or experimenting with new AI projects in Python<br><br>🌐 Socials: <br>Instagram LinkedIn X
+🔭I’m currently working at Pi Techniques<br>💬Ask me about Web development-related stuff<br>📫How to reach me: Twitter - @SWARAJ_53424950, LinkedIn - @swaraj-darne, Instagram - @swaraj__srj<br>⚡If I’m not coding, I’m probably binging anime or experimenting with new AI projects in Python<br><br> Portfolio - [https://swaraj-portfolio-v3.netlify.app/](https://swaraj-portfolio-v3.netlify.app/)
 
 
 ## 🌐 Socials:
